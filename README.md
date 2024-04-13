@@ -45,7 +45,7 @@ Rarity (Hashlips):
 ```
 $ npm run rarity
 ```
-- Calculates the rarity of NFT properties based on layer files. 
+- Calculates the rarity of NFT properties based on layer files.
 
 Rarity (codeSTACKr): 
 ```
@@ -179,7 +179,7 @@ There have been some changes made to the code from the original video resulting 
 
 To fix these issues, I've updated the code to include a timeout that will allow the files to be uploaded at a slower rate, instead of all at once, eliminating these errors.
 
-If you've reached your quota limit, contact NFTPort to upgrade your plan to get more :)
+If you've reached your quota limit, contact NFTPort to upgrade your plan to get more. 
 
 **To use this code:**
 
