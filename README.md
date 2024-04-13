@@ -45,7 +45,7 @@ Rarity (Hashlips):
 ```
 $ npm run rarity
 ```
-- Calculates the rarity of NFT properties based on layer files.
+- Calculates the rarity of NFT properties based on layer files. 
 
 Rarity (codeSTACKr): 
 ```
